@@ -28,4 +28,5 @@ Determine whether the files are the same by verifying the file hash value
 ## Judgment rules?
 - Same path and same hash value: the program will judge that these two files are the same file.
 - Different paths but the same hash value: the program will not judge these two files as the same file.
+
 Thank you for your use! If you have any good suggestions or find any bugs in this program, please directly raise a question. I will solve it within 24 hours (except working days).
